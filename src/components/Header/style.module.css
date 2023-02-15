@@ -1,0 +1,6 @@
+.header {
+    background: var(--black);
+    margin-bottom: 3.125rem;
+    display: flex;
+    justify-content: center;
+}

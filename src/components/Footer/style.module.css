@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3.125rem;
+    background: var(--black);
+    color: var(--white);
+    padding: 1rem;
+}
